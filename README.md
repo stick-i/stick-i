@@ -1,9 +1,11 @@
-### Hi there 👋
+[![Sticki's GitHub stats](https://github-readme-stats.vercel.app/api?username=stick-i&theme=vue)](https://github.com/stick-i)
 
 <!--
 **stick-i/stick-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
