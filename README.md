@@ -3,11 +3,8 @@
 - 我的掘金主页：https://juejin.cn/user/4182956056773160/posts
 - 我的CSDN主页：https://blog.csdn.net/little_stick_i?type=blog
 
-<p align="left">
-  <img src="https://stats.justsong.cn/api/juejin?id=4182956056773160" alt="juejin" height="140px" />
-
-  <img src="https://stats.justsong.cn/api/csdn?id=little_stick_i" alt="github" height="140px" />
-</p>
+<img src="https://stats.justsong.cn/api/juejin?id=4182956056773160" alt="juejin" />
+<img src="https://stats.justsong.cn/api/csdn?id=little_stick_i" alt="github" />
 
 
 <!--
