@@ -1,9 +1,17 @@
+### 你好，我是阿杆 🤗
+
+#### 目前活跃的平台
+
+- 公众号：程序员阿杆
+- 掘金：https://juejin.cn/user/4182956056773160/posts
+- CSDN：https://blog.csdn.net/little_stick_i?type=blog
+
+#### 一些展示
+
 [![Sticki's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=stick-i&theme=vue&count_private=true&show_icons=true)](https://github.com/stick-i)
 
-- 我的掘金主页：https://juejin.cn/user/4182956056773160/posts
-- 我的CSDN主页：https://blog.csdn.net/little_stick_i?type=blog
-
 <img src="https://stats.justsong.cn/api/juejin?id=4182956056773160" alt="juejin" />
+
 <img src="https://stats.justsong.cn/api/csdn?id=little_stick_i" alt="github" />
 
 
