@@ -13,10 +13,10 @@
 
 <img src="https://stats.justsong.cn/api/juejin?id=4182956056773160" alt="juejin" />
 
+<!--
 <img src="https://stats.justsong.cn/api/csdn?id=little_stick_i" alt="github" />
 
 
-<!--
 **stick-i/stick-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
