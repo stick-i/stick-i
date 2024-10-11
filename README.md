@@ -2,10 +2,11 @@
 
 #### 目前活跃的平台
 
-- 公众号：程序员阿杆
+- 微信公众号：程序员阿杆
 - 掘金：https://juejin.cn/user/4182956056773160/posts
 - CSDN：https://blog.csdn.net/little_stick_i?type=blog
 - 博客仓库：https://blog.sticki.cn
+- X：https://x.com/sticki_huang
 
 #### 一些展示
 
