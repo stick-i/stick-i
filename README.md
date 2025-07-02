@@ -10,7 +10,7 @@
 
 #### 一些展示
 
-[![Sticki's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=stick-i&theme=vue&count_private=true&show_icons=true)](https://github.com/stick-i)
+[![Sticki's GitHub stats](https://github-readme-stats.vercel.app/api/?username=stick-i&theme=vue&count_private=true&show_icons=true)](https://github.com/stick-i)
 
 <img src="https://stats.justsong.cn/api/juejin?id=4182956056773160" alt="juejin" />
 
