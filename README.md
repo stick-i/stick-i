@@ -10,14 +10,14 @@
 
 #### 一些展示
 
-[![Sticki's GitHub stats](https://github-readme-stats.vercel.app/api/?username=stick-i&theme=vue&count_private=true&show_icons=true)](https://github.com/stick-i)
-
 <img src="https://stats.justsong.cn/api/juejin?id=4182956056773160" alt="juejin" />
 
 <img src="https://stats.justsong.cn/api/csdn?id=little_stick_i" alt="github" />
 
 <!--
 
+
+[![Sticki's GitHub stats](https://github-readme-stats.vercel.app/api/?username=stick-i&theme=vue&count_private=true&show_icons=true)](https://github.com/stick-i)
 
 
 **stick-i/stick-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
